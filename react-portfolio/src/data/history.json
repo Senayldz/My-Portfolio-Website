@@ -1,0 +1,22 @@
+[
+    {
+        "role": "Trainee",
+        "organisation": "Google Game and App Academy",
+        "startDate": "Sept, 2022",
+        "endDate": "Present",
+        "experiences": [
+            "Worked on Unity games"
+        ],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Trainee",
+        "organisation": "Cisco",
+        "startDate": "Aug, 2023",
+        "endDate": "Aug, 2022",
+        "experiences": [
+            "Syber Security"
+        ],
+        "imageSrc": "history/cisco.png"
+    }
+]
