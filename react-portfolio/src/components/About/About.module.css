@@ -9,6 +9,7 @@
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
+    display: flex;
 }
 
 .title {
@@ -20,7 +21,7 @@
 }
 
 .aboutImage {
-    width: 35%;
+    width: 50%;
 }
 
 .aboutItems {
@@ -28,6 +29,8 @@
     display: flex;
     flex-direction: column;
     gap: 50px;
+    align-items: center;
+    justify-content: center;
 }
 
 .aboutItem {

@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Kaft Klone Website",
+      "imageSrc": "projects/kaft.jpg",
+      "description": "I created a clone of the Kaft website using React with my team.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://kaft-website-clone-main.onrender.com/",
+      "source": "https://github.com/Senayldz/Kaft-Clone-Website"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "The way of Kachujin",
+      "imageSrc": "projects/oyun.jpg",
+      "description": "I participated in Google Game Academy bootcamp where I developed a game with my team.",
+      "skills": ["Unity", "C#"],
+      "demo": "https://www.youtube.com/watch?v=lCPSiYFUJ48",
+      "source": "https://github.com/Senayldz/Bootcamp"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Escape from Time",
+      "imageSrc": "projects/oyun2.jpg",
+      "description": "Escape from Time is a time game. Players earn points by answering questions correctly to control time.",
+      "skills": ["Unity", "C#"],
+      "demo": "https://www.youtube.com/watch?v=6oqMudfg8P4&ab_channel=EsraMermer",
+      "source": "https://github.com/Senayldz/Game-Jam"
     }
   ]
