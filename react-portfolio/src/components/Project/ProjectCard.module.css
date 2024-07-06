@@ -8,6 +8,7 @@
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
     max-width: 345px;
+    height: 600px;
 }
 
 .image{
@@ -45,9 +46,9 @@
 
 .links{
     width: 100%;
-    margin-top: 26px;
     display: flex;
     justify-content: space-around;
+    margin-top: auto;
 }
 
 .link{
